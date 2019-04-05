@@ -19,7 +19,7 @@ I also spoke with Yaamini, and she told me that we should only look at proteins 
 [New MS Stats script](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/scripts/MSstats-Cgseed-DIA.R)      
 
 Products from new MS Stats: 
-- [protein comparison results table](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/analyses/20190403-2015Cgseed-protcomp.csv)   
+- [protein comparison results table](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/data/20190403-2015Cgseed-protcomp.csv)   
 - [Comparison Plot](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/analyses/ComparisonPlot.pdf)
 - [Profile Plot](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/analyses/ProfilePlot.pdf)
 - [Profile Plot with Summarization](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/analyses/ProfilePlot_wSummarization.pdf)
