@@ -31,7 +31,8 @@ I haven't delved too much into the plots, except for the Volcano Plot.
 
 It is very different from the one I did with the earlier MS Stats report (the one I created by hand). 
 
-The one from before had the bioreplicates wrong. I had:     
+The one from before had the bioreplicates wrong. I had:    
+
 | Temp trtmnt | sample day | sample | bioreplicate |
 |-------------|------------|--------|--------------|
 | 23C         | 9/11/15    | 1      | 1            |
@@ -41,7 +42,8 @@ The one from before had the bioreplicates wrong. I had:
 
 And it showed that there was 1 significantly downregulated ([old volcano plot](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/analyses/VolcanoPlot.pdf)) 
 
-Today, Steven said that bioreplicates should actually be within treatment. So I fixed the bioreplicates for today's MS Stats report and MS Stats analysis in R. The bioreplicates are now:       
+Today, Steven said that bioreplicates should actually be within treatment. So I fixed the bioreplicates for today's MS Stats report and MS Stats analysis in R. The bioreplicates are now:      
+
 | Temp trtmnt | sample day | sample | bioreplicate |
 |-------------|------------|--------|--------------|
 | 23C         | 9/11/15    | 1      | 1            |
