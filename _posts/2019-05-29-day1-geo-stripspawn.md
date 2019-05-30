@@ -110,16 +110,75 @@ Each tripour has a unique number label and I wrote down what each number corresp
 ![img](../notebook-images/05292019-day1-geo-stripspawn/samples-spreadsheet-screenshot.png)    
 
 ### Adding eggs to KCl+seawter tripours
+Rachel (Taylor Hatchery) counted the eggs using the coulter counter:     
+![img](../notebook-images/05292019-day1-geo-stripspawn/coulter-counter.JPG)
+
+The average of three readings found that there were ~20,646 eggs/ml in a 850ml container (first round of egg stripping). This means that in that tripour, there were about 17.5 million eggs. We figured that we would need to take about 18.5ml of the eggs (mixing well before sampling) and placing them in a new container. Then fill the container up to 1.254L with seawater in order to get a density of ~10,000 eggs/33 ml sampling. 
+
+I placed the 33ml containg ~10,000eggs into each tripour. During this process, I accidentally added an extra 10,000 to tripour # 30 (one of the immediate KCl exposure tripours in which Brent dry stripped some eggs into 50mM KCl+seawater. At the point of adding extra eggs, the original eggs were just sitting in clean saltwater). This wasn't a big deal because we hadn't counted those eggs yet. 
+
+I placed the eggs in the tripours with the different KCl mM amounts from 12:25p - 12:33p. We let them sit for 20 minutes. 
 
 ### Rinsing and placing in seawater
+After the 20 minutes of KCl exposure, we started to rinse the eggs and placing them in clean saltwater. 
+
+![img](../notebook-images/05292019-day1-geo-stripspawn/tripour-and-screentable-setup.JPG)
+
+Brent did the rinsing (dumped the eggs into 20µm, rinsed with saltwater, then placed into rinsed-out tripour and filled partially with saltwater), then handed the rinsed eggs to me where I topped them off up to ~800ml saltwater and placed them in the other water table. 
 
 ### Stripspawning male geoducks (2)
+After all the eggs were placed back into their tripours with saltwater, I started to stripsawn the males (2). All egg tripours were in the water bath, so there shouldn't have been sperm getting into them during this stripping process. 
 
-### Adding sperm to tripours
+Opening up the geoduck:       
+![img](../notebook-images/05292019-day1-geo-stripspawn/start-geoduck-male-shuck.JPG)
+
+Opened male:     
+![img](../notebook-images/05292019-day1-geo-stripspawn/open-male.JPG)
+
+Closeup of the gonad tissue:  
+![img](../notebook-images/05292019-day1-geo-stripspawn/closerup-gonad-2.JPG)
+
+I made cross-hatches using the razor blade in the very top layer of the gonad tissue (the ball of tissue). I made sure not to cut too deep because I want to avoid opening the digestive tissues and contaminating the samples. 
+
+I put the sperm (along with some chunks of gonad tissue that fell in) into a tripour with some clean saltwater:    
+![img](../notebook-images/05292019-day1-geo-stripspawn/sperm-stripped-in-tripour.JPG)
+
+### Using coulter counter to count eggs in the instant-KCl-dose tripours
+Benoit used the coulter counter to count the eggs so that we could determine how many milliliters to sample out from each one so that they each had ~10,000 eggs. 
+
+The tripours had a LOT of eggs in them.      
+![img](../notebook-images/05292019-day1-geo-stripspawn/coulter-counter-counts-instant-dose.JPG)
+
+I sampled out the correct amount of milliliters (after plunging to mix) and filled new tripours with seawater and the eggs. The tripours were numbered 38, 39, and 40, but to keep things clearer, I put blue tape over those numbers and wrote "28" "29" and "30" respectively in order to keep the same numbering. 
 
 ### Look at some eggs under microscope: polar bodies already???!!!!
+Before fertilizing, Benoit and Brent looked at some eggs under the microscope. Some already had polar bodies, which is not something that would happen unless they had been fertilized!
+
+The pink arrow points to a polar body:     
+![img](../notebook-images/05292019-day1-geo-stripspawn/polar-body-female.JPG)
 
 ### Thoughts on why the polar bodies may be there
+- During the biopsy punching at Pt Whitney, maybe some sperm leaked out and since the geoduck were all held together in one cooler, maybe sperm got on the females. During strip spawning, maybe that sperm found it's way into the egg samples, and thus they were fertilized - resulting in development and polar bodies much quicker than expected
+
+- Hermaphrodites? 
+
+- Does KCl unlock meiosis completely and cause eggs to create polar bodies even without sperm?
+
+This leads us to the idea of investigating this whole thing - maybe there is a time component that we're not thinking about? Maybe there was early sperm contamination when we weren't ready for it? 
+
+
+### Adding sperm to tripours
+Benoit used some of the sperm to fertilize the extra 50mM KCl-dosed eggs (tripours 31-33) in order to determine how much sperm we should use. It ended up being that he just had me start by fertilizing the eggs with ~1ml of the sperm/saltwater, but then saw that that wasn't enough, so had me fertilize with an additional ~2mL of sperm/saltwater.     
+
+I used a plastic pipet to sample out sperm:       
+![img](../notebook-images/05292019-day1-geo-stripspawn/sperm-sample-pipet.JPG)
+
+Then plunged to mix in order to fertilize:      
+![img](../notebook-images/05292019-day1-geo-stripspawn/plunge-to-fert.JPG)
+
+### Next up:   
+On Friday, we'll check for D-hinge development. Not sure what we'll find since the whole polar body development was so unecpected. From there, we'll work to determine what we should explore next. 
+
 
 
 
