@@ -53,7 +53,7 @@ With our geoduck cooled in the cooler, and materials from Shelly, we headed over
 ## Today -- Taylor Hatchery:    
 We discuessed the plan with Benoit and made adjustments before starting anything. 
 
-We started by delegating tasks: Brent strip spawned three females, and I set up the tripours with their KCl _mM dosages. I'll start with some strips spawning notes, then share how I (with Benoit and Brent's suggestions) set up the dosages in the tripours. 
+We started by delegating tasks: Brent strip spawned three females, and I set up the tripours with their KCl _ mM dosages. I'll start with some strips spawning notes, then share how I (with Benoit and Brent's suggestions) set up the dosages in the tripours. 
 
 ### Female geoduck strip spawning:     
 Brent opened up the females (as determined by the biopsy punches at Pt Whitney)     
@@ -97,7 +97,7 @@ I made the concentrations in large batches, since each one would be separated in
 | 70               | 105                |
 | 80               | 120                | 
 
-I made three sets of the 50mM in triplicate (one triplicate for the instant KCl exposure (blue tape), one triplicate as extras to play around with). I placed them all in the bath that they'll be sitting in for the next couple of days in order to control their temperature. The seawater is at ____ ˚C. 
+I made three sets of the 50mM in triplicate (one triplicate for the instant KCl exposure (blue tape), one triplicate as extras to play around with). I placed them all in the bath that they'll be sitting in for the next couple of days in order to control their temperature. The seawater is at 15.5 ˚C. 
 
 ![img](../notebook-images/05292019-day1-geo-stripspawn/tripour-setup.JPG)
 
