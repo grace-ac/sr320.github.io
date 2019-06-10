@@ -9,7 +9,7 @@ Today I looked into trying to figure out why we saw polar body development as ea
 
 ### Preparation
 *Pt Whitney*    
-I got to Pt Whitney around 9:30am and grabbed 28 geoduck (Molly wanted 25 to spawn). I placed them all in the same cooler.
+I got to Pt Whitney around 9:30am (took the 7:55am ferry) and grabbed 28 geoduck (Molly wanted 25 to spawn). I placed them all in the same cooler.
 
 *Taylor*     
 I arrived a little after 10am, and started by discussing the plans with Brent and Benoit. Brent helped sort through the geoduck to help find me three diploid, then I sexed them and stopped once I had three ripe females.     
