@@ -41,6 +41,12 @@ I made them in a 3L pitcher, so I did them in sets of two. Example: to make the 
 Tripour treatments:       
 ![img](../notebook-images/061019-round2-stripspawn-pics/tripour-amounts.png)
 
+### Experimental set-up
+
+![img](/notebook-images/061019-round2-stripspawn-pics/drawing-exp-setup.JPG)
+
+FSW tripours next to each dosed tripour. 
+
 ### Check female geoduck ploidy
 Before dissecting the females and stripping the eggs, I measured the shells:     
 
