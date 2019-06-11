@@ -7,7 +7,7 @@ tags: [geo-stripspawn]
 ---
 Today was Day 1 of the second trial of geoduck stripspawn. We created an experimental design that takes into account both KCl dosage, and duration of the dose exposure. Overall things went pretty well (details in post), and on Wednesday, I'll check for D-hinge development. 
 
-## [Google doc with plan](https://docs.google.com/document/d/1LFqSM13SukdZ1ehv35L4L_e80DN7SRW33MGhNY6NzKA/edit)     
+### [Google doc with plan](https://docs.google.com/document/d/1LFqSM13SukdZ1ehv35L4L_e80DN7SRW33MGhNY6NzKA/edit)     
 (written in prep for the day, things changed and will be noted in this post)
 
 ## 8:30am - Pt Whitney
