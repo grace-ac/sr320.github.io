@@ -105,6 +105,8 @@ All 18 tripours were fertilized within 1 minute.
 
 At 4:10pm, Benoit looked at some eggs under the scope from the 10mM 10 minute group and from the 10mM 40minute group and saw that there was some fertilization, and very very few polar bodies... which seemed good for the timeline. 
 
+Fertilization was done at the same time for all treatments so that we can look at D-hinge development more easily. 
+
 ### Stocking buckets with fertilized eggs for growing out
 While we didn't have replicates for dosing, we do have replicates for growing out. 
 
