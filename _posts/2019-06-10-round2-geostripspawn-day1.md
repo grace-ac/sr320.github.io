@@ -53,8 +53,59 @@ Before dissecting the females and stripping the eggs, I measured the shells:
 Benoit ran the ctenidia samples from all three females on the flow (? is that what it's called) to check for ploidy. All three had the same ploidy, but it isn't known if they are all three diploid, or all three triploid. Benoit believes they are likely all three diploid. 
 
 #### Stripspawn females
-I dry stripped some eggs from all three directly into the screened silo sitting in tripour 19 (50mM with no hydration), and timed for 20 mins. 
+I dry stripped some eggs from all three directly into the screened silo sitting in tripour 19 (50mM with no hydration), and timed for 20 mins. **(2:15pm 50mM KCl dose start; put into filtered saltwater tripour at 2:35pm)**
 
 During those 20 mins, I stripped eggs from the three females into some saltwater. Benoit helped get a lot of eggs out. One female was much more ripe than the other two. Of the remaining two, one female was not very ripe at all unfortunately. 
 
 Benoit helped with screening and cleaning the eggs, and counted them using the coulter counter. The first counts showed that there was about 4 million eggs in the 3L pitcher. 
+
+We wanted to have a lot more eggs per treatment, so Benoit stripped some more eggs. 
+
+The second round of counts showed that there were ~15million eggs in the 3L pitcher! It was decided that we would put 600,000 eggs in each mini silo, so I put 120ml in each of the 19 silos.
+
+The silos were sitting in tripours in filtered saltwater. Hydration time was ~30mins. 
+
+#### Counting eggs from the dry stripped 50mM silo
+At 2:50pm, I screened silo 19 (the dry stripped eggs). I put them into a tripour and suspended them so that Benoit could count the eggs using the coulter counter.          
+There were about 307,000 eggs in tripour 19 (50mM KCl instant dose - no hydration). 
+
+I placed them back into the silo into filtered saltwater at 3:05pm. 
+
+#### Dosing 
+All silos (3-18) started out by sitting in filtered saltwater. 
+
+Then Benoit helped me by moving the silos over to the dosed tripours (we each moved two), and I kept track of time. 
+
+| duration_mins | dose_start | back to FSW time |
+|---------------|------------|------------------|
+| 40            | 3:14pm     | 3:54pm           |
+| 30            | 3:16pm     | 3:46pm           |
+| 20            | 3:18pm     | 3:38pm           |
+| 10            | 3:20pm     | 3:30pm           | 
+
+The reason why the dose start time are two minutes apart is because it took a long time to drain the FSW out of the 20um screened mini silos, and you have to place them into the dosed tripours very carefully - if you go too fast, the water spills out. 
+
+![img](../notebook-images/061019-round2-stripspawn-pics/dosing-some-moved.JPG)     
+In this picture, the 30 and 40 minute treatments are still sitting in their doses, and then 10 and 20 minute groups are back in FSW after being dosed. 
+
+#### Strip spawn male
+While we were waiting between moving the dosed eggs back to FSW, Benoit stripped some sperm from two males in the lab room (far away from where all of the eggs are!), and rinsed them with 100um and 20um screens. 
+
+He looked at the sperm under the microscope and saw that they were very active. 
+
+He filled a tripour with sperm/saltwater mix.
+
+#### Fertilization
+**I kept the negative control tripout (#1) on the bench counter away from where all the eggs that will be fertilized were.**
+
+Benoit said I should fertilize each silo with ~35ml of the sperm/saltwater mix (filled the coulter counter small containers to the top). 
+
+**Fertilization was at 4pm**     
+All 18 tripours were fertilized within 1 minute. 
+
+At 4:10pm, Benoit looked at some eggs under the scope from the 10mM 10 minute group and from the 10mM 40minute group and saw that there was some fertilization, and very very few polar bodies... which seemed good for the timeline. 
+
+#### Stocking buckets with fertilized eggs for growing out
+
+
+
