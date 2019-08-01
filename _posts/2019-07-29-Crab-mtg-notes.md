@@ -32,3 +32,6 @@ Potential conferences:
      Abstracts due: Sept 11, 2019
 - AMSS           
      Anchorage, AK 2020? or 2021? (Pam says they prefer to hear final rather than prelim. results....)     
+
+Shanelle:   
+She'll be receiving her tanner crab samples in the next week or so, once she gets them, she'll be doing lab work here. Would love to interview her for a podcast episode! 
