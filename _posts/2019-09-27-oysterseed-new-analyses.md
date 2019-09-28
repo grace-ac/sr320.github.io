@@ -26,7 +26,7 @@ Other things to do:
 ## Things I did today: 
 ### Starting to address "Results" for describing sig. diff. abundant proteins relative to proteome
 
-I took the Uniprot IDs (Uniprot ACCESSION) from [Cgseed-protcomp-annotation-name.sorted](https://raw.githubusercontent.com/grace-ac/paper-pacific.oyster-larvae/master/analyses/Cgseed-protcomp-annotation-name.sorted) (Uniprot IDs for the 2,808 sig. diff. abundant proteins) and put that into DAVID as the gene list. 
+I took the Uniprot IDs (Uniprot ACCESSION) from [Cgseed-protcomp-annotation-name.sorted](https://raw.githubusercontent.com/grace-ac/paper-pacific.oyster-larvae/master/analyses/Cgseed-protcomp-annotation-name.sorted) (Uniprot IDs for the 2,808 detected proteins) and put that into DAVID as the gene list. 
 
 I took the Uniprot IDs (Uniprot ACCESSION) from [0327-cgseedblast-sprot.tab](https://raw.githubusercontent.com/grace-ac/paper-pacific.oyster-larvae/master/analyses/0327-cgseedblast-sprot.tab) (Blast that Steven did with proteome and uniprot database), and put those as the background in DAVID. 
 
