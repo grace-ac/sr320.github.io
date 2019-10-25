@@ -88,3 +88,7 @@ Ran 2ul of each sample on Qubit.
 
 [Link to data](https://docs.google.com/spreadsheets/d/16zarY-NZnyrlKN69chKfSraMnVi3OFzlwDytWGx5NZ0/edit?usp=sharing) 
 
+
+**Extracted RNA is in [-80, Rack 7, col 3, row 4](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773)**
+
+(Need to move hemolymph pellets back to their respectve boxes still. Currently hemolymph pellets from this extraction are in the -80 in the same box as the pelleted RNA.)
