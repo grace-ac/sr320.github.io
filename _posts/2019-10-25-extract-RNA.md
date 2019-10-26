@@ -59,7 +59,7 @@ Tubes I grabbed:
 ### Purification
 1. Transfered 350ul of sample into yellow spin column.
 2. Spun 10,000 g 30s. 
-3. Saved DNA on the column for later. 
+3. Saved DNA on the column for later. (Put in -20C on labeled tube rack in FTR 209)
 4. Saved flowthrough with RNA and continued
 5. Added 350ul 100% ethanol and pipet to mix.
 6. Transfer all 700ul to clear spin column. 
@@ -91,4 +91,4 @@ Ran 2ul of each sample on Qubit.
 
 **Extracted RNA is in [-80, Rack 7, col 3, row 4](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773)**
 
-(Need to move hemolymph pellets back to their respectve boxes still. Currently hemolymph pellets from this extraction are in the -80 in the same box as the pelleted RNA.)
+(Put remaining hemolymph pellet tubes in Rack 8, column 3, row 5 in -80 (the nearly empty box from first day sampling tubes)).
