@@ -10,19 +10,19 @@ Today I did another round of Day 9 infected (12) and uninfected (12) tanner crab
 ### RNA extraction
 I followed yesterday's ([post](https://grace-ac.github.io/extract-RNA/)) extraction process as exactly as I personally could. Nothing went wrong. 
 
-![img](../notebook-images/102519-crab-rna-extraction/extraction-setup.png)
+![img](../notebook-images/102519-crab-rna-extraction/extraction-setup.jpg)
 
 #### Some notes: 
 
 The following tubes had small amounts of initial pelleted hemolymph:     
 71, 67, 177, and 44
 
-![img](../notebook-images/102519-crab-rna-extraction/low-hemo.png)
+![img](../notebook-images/102519-crab-rna-extraction/low-hemo.jpg)
 
 The following tubes had white crystal-y stuff in them after sample preparation step:    
 20, 54, 24, 169, 29 
 
-![img](../notebook-images/102519-crab-rna-extraction/white-crystal-y-stuff.png)
+![img](../notebook-images/102519-crab-rna-extraction/crystal-y-stuff.jpg)
 
 After Step 2 (running ethanol through Zymo yellow column), tubes 44 and 29 didn't fully run through, so I ran them through the centrifuge one more time at 10,000 g for 30 sec.
 
