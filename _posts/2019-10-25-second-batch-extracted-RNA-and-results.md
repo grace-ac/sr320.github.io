@@ -8,7 +8,7 @@ tags: [Zymo, RNAisolation, Qubit]
 Today I did another round of Day 9 infected (12) and uninfected (12) tanner crab hemolymph RNA extractions. I also ran 2ul of the eluted 15ul RNA on Qubit. Results and details in post. 
 
 ### RNA extraction
-I followed yesterday's ([post](https://grace-ac.github.io/extract-RNA/)) extraction process as exactly as I personally could. Nothing went wrong. 
+I followed yesterday's ([post](https://grace-ac.github.io/extract-RNA/)) extraction process as exactly as I personally could. Nothing went wrong as far as I'm aware... 
 
 ![img](../notebook-images/102519-crab-rna-extraction/extraction-setup.jpg)
 
