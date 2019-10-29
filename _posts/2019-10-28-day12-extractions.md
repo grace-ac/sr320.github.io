@@ -75,3 +75,13 @@ I did everything the same as what I've done for the past two extractions ([1](ht
 
 ### Summary table of what I have extracted so far:     
 
+| Day | Infection status | temperature | Total ng in all sample tubes that had RNA | number of tubes with RNA out of how many were processed |
+|-----|------------------|-------------|-------------------------------------------|---------------------------------------------------------|
+| 9   | infected         | NA          | 5532.67                                   | 21 out of 24                                            |
+| 9   | uninfected       | NA          | 4678.96                                   | 23 out of 24                                            |
+| 12  | Infected         | cold        | 1349.01                                   | 6 out of 6                                              |
+| 12  | Uninfected       | cold        | 815.1                                     | 3 out of 3                                              |
+| 12  | Infected         | ambient     | 1136.2                                    | 3 out of 3                                              |
+| 12  | Uninfected       | ambient     | 624                                       | 3 out of 3                                              |
+| 12  | Infected         | warm        | 639.6                                     | 3 out of 3                                              |
+| 12  | Uninfected       | warm        | 1453.27                                   | 6 out of 6                                              |
