@@ -43,8 +43,8 @@ Today I did some more extractions, but moved on to day 12. I did a mix of all gr
 I did everything the same as what I've done for the past two extractions ([1](https://grace-ac.github.io/extract-RNA/) and [2](https://grace-ac.github.io/second-batch-extracted-RNA-and-results/)). No obvious mishaps or mistakes as far as I know.
 
 ### Results:
-[Raw qubit]
-[Google sheet qubit] 
+[Raw qubit](https://github.com/RobertsLab/project-crab/blob/master/data/Qubit_data/QubitData_2019-10-28_17-21-49.csv)
+[Google sheet qubit](https://docs.google.com/spreadsheets/d/1uRt94yQr9I9XroAoGNmDNR-Wef9rQIAVvvkEIkUmo1Q/edit?usp=sharing)
 
 | qubit_tube_conc_ng.ml | original_sample_conc_ng.ul | sample_vol_ul | dilution_factor | tube_number | extraction_method | ul_sample-used | elution_vol_ul | total-yield_ng |
 |-----------------------|----------------------------|---------------|-----------------|-------------|-------------------|----------------|----------------|----------------|
@@ -74,6 +74,7 @@ I did everything the same as what I've done for the past two extractions ([1](ht
 | 289                   | 28.9                       | 2             | 100             | 301         | Zymo_microprep    | 35             | 15             | 375.7          |
 
 ### Summary table of what I have extracted so far:     
+([Sam's post](https://robertslab.github.io/sams-notebook/2019/05/21/Sample-Submission-Tanner-Crab-Infected-vs-Uninfected-RNAseq.html) mentions that NWGC asks for 60ng/ul of RNA, and mentions 1000ng, but that they can sequence with less RNA. He wasn't able to get them to give a minimum amount.) 
 
 | Day | Infection status | temperature | Total ng in all sample tubes that had RNA | number of tubes with RNA out of how many were processed |
 |-----|------------------|-------------|-------------------------------------------|---------------------------------------------------------|
