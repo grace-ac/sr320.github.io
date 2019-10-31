@@ -46,6 +46,10 @@ I did everything the same as what I've done for the past two extractions ([1](ht
 [Raw qubit](https://github.com/RobertsLab/project-crab/blob/master/data/Qubit_data/QubitData_2019-10-28_17-21-49.csv)
 [Google sheet qubit](https://docs.google.com/spreadsheets/d/1uRt94yQr9I9XroAoGNmDNR-Wef9rQIAVvvkEIkUmo1Q/edit?usp=sharing)
 
+- Extracted RNA in -80:[rack 7, column 3, row 4](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773)    
+- DNA on columns in -20C in FTR 209 (on a labled tube rack on top shelf)     
+- Remaining hemolymph was placed in Day 12 Box 3 (rack 14, column 2, row 1)
+
 | qubit_tube_conc_ng.ml | original_sample_conc_ng.ul | sample_vol_ul | dilution_factor | tube_number | extraction_method | ul_sample-used | elution_vol_ul | total-yield_ng |
 |-----------------------|----------------------------|---------------|-----------------|-------------|-------------------|----------------|----------------|----------------|
 | 244                   | 24.4                       | 2             | 100             | 282         | Zymo_microprep    | 35             | 15             | 317.2          |
