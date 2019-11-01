@@ -79,3 +79,18 @@ I did everything the same as I've done the past three extractions ([1](https://g
 - The extracted RNA is in a new box in the -80C: [Rack 3, Column 4, Row 2](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773).        
 - The hemolymph pellets were placed back where I found them in the Day 12 pelleted hemolymph boxes (Rack 14)     
 - The DNA from today and the previous days were transferred to boxes that I labeled and they are on the top shelf in FTR 209 -20C freezer. 
+
+### Sample Summary so far from my zymo-kit extractions:    
+
+| Day | Infection_status | temperature | Total ng of RNA for all sample tubes that had RNA | # tubes with RNA out of how many were processed |
+|-----|------------------|-------------|---------------------------------------------------|-------------------------------------------------|
+| 9   | Infected         | NA          | 5532.67                                           | 21 out of 24                                    |
+| 9   | Uninfected       | NA          | 4768.96                                           | 22 out of 24                                    |
+| 12  | Infected         | Cold        | 3039.79                                           | 11 out of 11                                    |
+| 12  | Uninfected       | Cold        | 2143.7                                            | 7 out of 7                                      |
+| 12  | Infected         | Ambient     | 1593.8                                            | 5 out of 6                                      |
+| 12  | Uninfected       | Ambient     | 1061.9                                            | 6 out of 6                                      |
+| 12  | Infected         | Warm        | 1831.96                                           | 7 out of 7                                      |
+| 12  | Uninfected       | Warm        | 2998.97                                           | 11 out of 11                                    |
+
+This was determined by using the filtering in excel and adding up the total ng of RNA from my master spreadsheet of qubit results, and hemolymph sampling data: [analyses/master-qubit-sample.csv](https://github.com/RobertsLab/project-crab/blob/master/analyses/master-qubit-sample.csv)
