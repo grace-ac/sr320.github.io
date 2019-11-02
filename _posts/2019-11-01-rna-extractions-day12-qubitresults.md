@@ -88,3 +88,18 @@ Some notes from today:
 - Extracted RNA eluted in RNase-free water are in [Rack 3, Column 4, Row 2](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773) in the -80C 
 
 ### Sample Summary:  
+![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/zymo-poolplan-11012019.png)  
+
+### Pooling plan:   
+Will have pools for the 6 rows that are colored greens blues and oranges.   
+
+Plan is to pick samples out from the extracted samples, then run 1ul of each sample on the Bioanalyzer to be sure that we'd be giving NWGC good samples. Then, I'll pool them into the six pools. 
+
+Want to make sure that each individual sample is contributing the same ng of RNA to the pooled sample. 
+
+#### Thoughts about sequencing individuals:  
+Today in the meeting, it was decided it likely wouldn't be possible to sequence RNA from individual samples... but now I'm thinking it might be? The samples I extracted using the Zymo kit were 35ul of the available samples. Some of those 35ul samples had 500+ ng of RNA (according to the RNA HS Qubit results)... I could potentially sample out 35ul from one individual crab on a certain sampling day to achieve 1000ng+ of RNA... which is what NWGC needs for sequencing. 
+
+I'll talk about this with Sam and Steven next week. 
+
+
