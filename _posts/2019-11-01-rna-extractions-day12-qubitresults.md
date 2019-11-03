@@ -88,7 +88,7 @@ Some notes from today:
 - Extracted RNA eluted in RNase-free water are in [Rack 3, Column 4, Row 2](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773) in the -80C 
 
 ### Sample Summary:  
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/zymo-poolplan-11012019.png)  
+![img](../notebook-images/zymo-poolplan-11012019.png)  
 
 ### Pooling plan:   
 Will have pools for the 6 rows that are colored greens blues and oranges.   
