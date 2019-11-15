@@ -33,7 +33,9 @@ Used the same process to isolate as [previous posts](https://grace-ac.github.io/
 
 I acciddentally didn't make enough of the Qubit RNA HS working solution for all 12 samples plus the two standards, so I ran 10 samples, and then the remaining two separately. 
 
-[Google sheets](https://grace-ac.github.io/rna-extractions-day12-qubitresults/) 
+[Google sheets](https://grace-ac.github.io/rna-extractions-day12-qubitresults/)       
+[Raw qubit (10 samples)](https://github.com/RobertsLab/project-crab/blob/master/data/Qubit_data/QubitData_2019-11-15_14-57-49.csv)       
+[Raw qubit (2 sampels)](https://github.com/RobertsLab/project-crab/blob/master/data/Qubit_data/QubitData_2019-11-15_15-04-58.csv)
 
 | test_date      | qubit_tube_conc_ng.ml | original_sample_conc_ng.ul | sample_vol_ul | dilution_factor | tube_number | extraction_method | ul_sample-used | elution_vol_ul | total-yield_ng |
 |----------------|-----------------------|----------------------------|---------------|-----------------|-------------|-------------------|----------------|----------------|----------------|
