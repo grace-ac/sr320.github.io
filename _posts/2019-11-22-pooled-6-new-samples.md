@@ -90,5 +90,4 @@ Ran 2ul of each pooled sample on Qubit RNA Hs
 | warm        | 12  | 1                | 230.1          | 13          | 6.214689266  | 41.00446376  | 2            | 26.3            | 1025.817397       | 39.00446376      |
 
 There's at least 1000ng of RNA in all pooled samples!! :fireworks: :tada:         
-Things are ready to go to a sequencing facility. 
 
