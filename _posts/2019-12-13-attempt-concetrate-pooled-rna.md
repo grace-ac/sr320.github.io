@@ -35,3 +35,7 @@ I'm wondering if maybe I should add a few more samples of RNA to the 6 pools, an
 ## Other options
 - Free sample of the [Zymo RNA Clean Concentrator 5 R1013](https://www.zymoresearch.com/collections/rna-clean-concentrator-kits-rcc/products/rna-clean-concentrator-5) will hopefully arrive on Tuesday, so I can try to use that and get the samples in on Tuesday (I leave for the winter break on Wednesday, Dec. 18th in the morning)
 - See if what Shelly suggested for Yaamini's samples might work for mine? (Yaamini's notebook posts: [WGCS Samples](https://yaaminiv.github.io/WGBS-Samples/); [WGS Samples Part 2](https://yaaminiv.github.io/WGBS-Samples-Part2/))
+
+## In other news...
+- Submitted abstract for a talk or poster to NSA today (didn't specify one or the other, becuase i'd be kinda down to try making one of the [better posters](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over))
+- Am working on an application for a SAFS fellowship for my Spring 2020 quarter so that I don't have to TA while I'm finishing up my thesis and defending (will submit before I leave for CA next Wednesday)
