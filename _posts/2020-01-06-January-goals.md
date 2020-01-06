@@ -6,7 +6,7 @@ category: MonthlyGoals
 ---
 
 ## Crab
-- Concentrate the 6 new pooled crab samples (recieved that sample kit of the RNA Clean and Concentrator -5 kit from Zymo) 
+- Concentrate the 6 new pooled crab samples (recieved that sample kit of the RNA Clean and Concentrator -5 kit from Zymo -- have a lot of time tomorrow to work on this) 
 - Submit 6 new pooled samples (to NWGC because we have the quote from them)
 - Work on new results for AMSS presentation (my talk needs to be done by Monday, January 27th)
 
