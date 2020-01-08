@@ -71,3 +71,13 @@ If I pooled the samples well, they each should have had initially ~120 ng of RNA
 # Summary
 This probably works... I'm just a bit nervous to use it on my 6 pooled samples... maybe I'll try again on a 2 new test pools and make sure I run 2ul on qubit before adding so much water for the concentrator kit... 
 
+# Lab meeting notes; Crab project updates; January plan
+
+We did not get the 1 year no-cost extension from NPRB. This means that all grant-related tasks need to be completed by March. 
+
+My priorities for January: 
+- Assist Sam with extracting RNA from all samples in freezer (don't have to do all ~250 untouched tubes in freezer, because there are many from Day 26, which is when each crab had 3 samples taken. Will only extract RNA from 1 tube per crab at each time point). 
+- Worry about AMSS talk week before conference. If I get new results, great, if not, I have a pretty solid talk from GSS that I can give again. 
+- Try to concentrate RNA from my 6 pooled samples and send to NWGC. We need to see how fast they can get them to us. 
+
+
