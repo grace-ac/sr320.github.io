@@ -31,7 +31,19 @@ GO-MWU script using those two files: [2019-crab-infection-ALL-GO_MWU.R](https://
 It worked!! Found 15 GO terms at 10% FDR, so continuing on to plotting was good to go.      
 Results: [2019-crab-ALL-GO_MWU-results.csv](https://github.com/RobertsLab/project-crab/blob/master/analyses/GO-MWU/2019-crab-ALL-GO_MWU-results.csv)       
 Plot:       
-![img](../notebook-images/042020-GO-MWU-plot.png)
+![img](../notebook-images/042020-GO-MWU-plot.png)     
+
+Info on plot from [GO-MWU repo](https://github.com/z0on/GO_MWU) 
+
+> The plot consists of three parts:
+
+> Hierarchical clustering tree of significant GO categories based on shared genes in the current dataset. Categories with no branch length between them are subsets of each other and their significance is most likely driven by the same genes.
+
+> Category names, plotted in different colors and fonts. Fonts indicate the level of statistical significance, colors indicate enrichment of GO categories with either up- (red) or down- (blue) regulated genes. The category names are preceded by the fraction indicating the number of "good candidates" relative to the total number of genes belonging to this category. The "good candidates" are the genes exceeding an arbitrary 'absValue' cutoff in their significance measure. Adjust 'absValue' parameter according to what your measure is. By default it is set to -log(0.05,10), assuming that the measure is a signed log p-value (so, the "good candidates" would be the ones with raw p-value < 0.05). Ideally we would like to see more than one such gene per displayed GO category. With 'level1=1' the script will display all the categories containing "good candidates", which is a good way to summarize the whole GO content of the experiment. Note that 'absValue' parameter does not affect statistics and serves just the illustrative purpose. In the Fisher-test mode (binary significance measure) and signed WGCNA module analysis the colors are not used; in that case specify absValue=0.001 to make the script display the fraction of genes with non-zero measure within a GO category.
+
+> The legend giving the correspondence of the fonts to significance thresholds. The method corrects the p-values using Benjamini-Hochberg false discovery rate procedure except when analyzing WGCNA modules; in that case the false discovery rate is determined from ten permutations where significance measures are randomly shuffled among genes. To set different thresholds for plotting, change parameters 'level1', 'level2' and 'level3' in gomwuPlot.
+
+> In addition, the script prints out the number of GO categories displayed and the fraction of "good candidates" that these categories account for. This is useful to evaluate whether the generated GO summary really accounts for a substantial portion of what was going on.
 
 
 ### Next steps:     
