@@ -4,6 +4,7 @@ title: Trying GO-MWU with 2019 crab data
 date: '2020-04-20'
 category: bairdi
 tags: [GO_MWU]
+---
 In this post I'll detail what I've been trying in GO-MWU with the 2019 crab dataset, comparing infected and uninfected crabs. The post will detail progress from most recent attempt to frist attempts. 
 
 ## GO-MWU resources: 
