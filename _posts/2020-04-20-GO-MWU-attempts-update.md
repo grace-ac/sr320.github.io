@@ -42,8 +42,11 @@ Try with other tables with measures of interests for 2019 crab data (if interest
 
 Try GO-MWU modeling off of this EIMD script: [Zostera-GO_MWU.R](https://github.com/eimd-2019/project-EWD-transcriptomics/blob/master/analyses/GO-MWU/Zostera-GO_MWU.R) to specificy different GO categories- BP, CC, MF. 
 
-**Other Options**
+**Other Options**     
 Try DAVID     
+Look into potentially using:    
+- WGCNA (weighted gene network correlation analysis)??
+- GOstats??
 
 ## Previous attempts with just DEG list from2019 crab data (incorrect way to use GO-MWU):    
 Originally, I tried using GO-MWU with 2 files based on the [DEGlist](https://github.com/RobertsLab/project-crab/blob/master/analyses/2019-infection_DEGlist.tab) that Steven made.           
