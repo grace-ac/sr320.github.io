@@ -26,7 +26,8 @@ Ran GO-MWU script with the following files (which were made in [042020-format-fi
 
 GitHub issue to get help figuring out files to use: [#908](https://github.com/RobertsLab/resources/issues/908)
 
-GO-MWU script using those two files: [2019-crab-infection-ALL-GO_MWU.R](https://github.com/RobertsLab/project-crab/blob/master/analyses/GO-MWU/2019-crab-infection-ALL-GO_MWU.R)
+GO-MWU script using those two files: [2019-crab-infection-ALL-GO_MWU.R](https://github.com/RobertsLab/project-crab/blob/master/analyses/GO-MWU/2019-crab-infection-ALL-GO_MWU.R)     
+Specified GO-MF (molecular function) because that is what the script from the GO-MWU repo has... just to try it out. 
 
 It worked!! Found 15 GO terms at 10% FDR, so continuing on to plotting was good to go.      
 Results: [2019-crab-ALL-GO_MWU-results.csv](https://github.com/RobertsLab/project-crab/blob/master/analyses/GO-MWU/2019-crab-ALL-GO_MWU-results.csv)       
