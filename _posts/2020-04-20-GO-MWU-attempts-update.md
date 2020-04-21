@@ -31,7 +31,7 @@ GO-MWU script using those two files: [2019-crab-infection-ALL-GO_MWU.R](https://
 It worked!! Found 15 GO terms at 10% FDR, so continuing on to plotting was good to go.      
 Results: [2019-crab-ALL-GO_MWU-results.csv](https://github.com/RobertsLab/project-crab/blob/master/analyses/GO-MWU/2019-crab-ALL-GO_MWU-results.csv)       
 Plot:       
-![img](../master/notebook-images/042020-GO-MWU-plot.png)
+![img](../notebook-images/042020-GO-MWU-plot.png)
 
 
 ### Next steps:     
