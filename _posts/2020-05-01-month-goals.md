@@ -28,6 +28,6 @@ category: MonthlyGoals
 - I did finish the paper! But I have a lot of great comments by labmates' to address to make it a good paper. 
 
 ### other
-- I have been working on my One Health capstone on Thursday nights and a little on weekends - not too hard... a fun and small side project! I only have to give a 25 minute presentation of my findings to the One Health group. No paper needs to be written. 
+- I have been working on my One Health capstone here and there - not too hard... a fun and small side project! I only have to give a 25 minute presentation of my findings to the One Health group. No paper needs to be written. 
 - Haven't officially set an MS date... 
 
