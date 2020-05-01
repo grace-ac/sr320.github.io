@@ -29,5 +29,5 @@ category: MonthlyGoals
 
 ### other
 - I have been working on my One Health capstone here and there - not too hard... a fun and small side project! I only have to give a 25 minute presentation of my findings to the One Health group. No paper needs to be written. 
-- Haven't officially set an MS date... 
+- Haven't officially set an MS defense date... 
 
