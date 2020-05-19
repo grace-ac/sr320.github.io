@@ -28,3 +28,24 @@ I did the same process  that I did for the previous DEG list comparing infection
 The same thing happened here as with the infection status annotation --> the annotated list has more rows that the original list of 423 DEGs... likely because the transcriptome `blast` output has duplicate Trinity IDs listed. Therefore, the number of annotated DEGs (339) is likely not a true number. Still need to figure out how to fix this. 
 
 (also need to fix that in the infections status DEG list annotation: [RobertsLab/project-crab/blob/master/scripts/annotate-2019infection_status-DEGs.Rmd](https://github.com/RobertsLab/project-crab/blob/master/scripts/annotate-2019infection_status-DEGs.Rmd))
+
+### Oyster: annotated list of differentially abundant proteins
+I had a list of differentially abundant proteins already, but it wasn't annotated with GO or the _C. gigas_ `blat` output. So I did that:    
+R script: [scripts/03-join-annotate-diffexp-prot.R](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/scripts/03-join-annotate-diffexp-prot.R)     
+Annotated list: [analyses/diff_abundant-prot-annotated.tab](https://raw.githubusercontent.com/grace-ac/paper-pacific.oyster-larvae/master/analyses/diff_abundant-prot-annotated.tab)    
+
+There were 69 differentially abundant proteins. The number was gotten by using a cut-off of >2 log2 fold change and <-2 log2 fold change from the [list of 2,808 detected proteins](https://github.com/grace-ac/paper-pacific.oyster-larvae/blob/master/data/20190403-2015Cgseed-protcomp.csv) in the samples. 
+
+### Next steps for thesis work: 
+this week:    
+- analyses for more crab results - differential expression analsyes for temperature, probably some heat maps, look at variation of certain DEGs across all libraries, ...     
+- practice talk Friday: working on flow of information - will be a very rough run-through. Defense date June 2nd.    
+
+Before defense:     
+- maybe do some comparisons between oyster and crab differentially abundant/expressed lists...? 
+
+before turn in thesis (due by June 26th at latest):    
+- write introduction to thesis tying two projects together (maybe also a conclusion tying the results together?) 
+
+
+
