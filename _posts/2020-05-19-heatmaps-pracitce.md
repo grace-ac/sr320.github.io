@@ -35,7 +35,7 @@ I also made some of the DEG lists for temperature comparison and infection statu
 Used this Rmd [here](https://github.com/RobertsLab/paper-crab/blob/master/scripts/join-tempDEG_genecounts.Rmd) to get a list of the 423 [temperature comparison DEGs with gene counts](https://github.com/RobertsLab/paper-crab/blob/master/analyses/temp_DEGlist-counts.tab).
 
 ### Plan for before Thursday meeting with SR at 3pm: 
-1. add some general notes about the list of enriched DEGs from the temperature comparison (DAVID output: [here]())
+1. add some general notes about the list of enriched DEGs from the temperature comparison (DAVID output: [here](https://github.com/RobertsLab/paper-crab/blob/master/analyses/DAVID-enrich-temp.txt))
 2.  Watch the tutorial on making heatmaps to see if there's anything else that would be useful to try: [video](https://www.youtube.com/watch?v=HySAnHTrNnM&list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9&index=36)
 3.  Make a TON of heatmaps of individual crab data
 - Compare crabs across time; can plot specific genes of interest (need to get GO info for the Trinity IDs FIRST!) 
