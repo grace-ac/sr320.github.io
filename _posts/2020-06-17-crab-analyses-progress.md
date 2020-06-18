@@ -38,6 +38,14 @@ With count data:
 Annotated with transcriptome v. 1.5 blast output and uniprot-GO:           
 [analyses/DEGlist-contrasttemp-annot.tab](https://github.com/RobertsLab/paper-crab/blob/master/analyses/DEGlist-contrasttemp-annot.tab)
 
+**Some** processes present in the list of DEGs that were able to be annotated (43 genes) with uniprot-GO:     
+- apoptosis    
+- cellular response to decreased oxygen     
+- transcription activity    
+- defense response to gram-negative bacterium      
+- cell proliferation involved in immune response      
+- response to glucose starvation    
+
 ## Time series with individual crab RNAseq data attempts: 
 
 Rmd: [scripts/DESeq-time-series.Rmd](https://github.com/RobertsLab/paper-crab/blob/master/scripts/DESeq-time-series.Rmd)      
